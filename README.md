@@ -15,4 +15,5 @@ Generated examples:
 * Fitted Watchword Rylee
 * Gratuitous Parishioner Vincent
 
+Corpora from http://gitnub.com/dariusk/corpora ; name from tvtropes.
 
